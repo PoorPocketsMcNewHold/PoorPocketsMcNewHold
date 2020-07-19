@@ -56,8 +56,3 @@
         </a>
       </p>
   </sup>
-</h1>
-<p align="center">Despite not showing my name, I'm still has pleased that you take attention to my profile.</p>
-<p align="center">I'm currently a french student, having some particular interests into open-source projects, and as a way to</p>
-<p align="center">contribute to them, mostly volunteer as a translator.</p>
-
