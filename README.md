@@ -22,17 +22,17 @@
           <img src="svg/devices/archlinux.svg" alt="Arch Linux" style="vertical-align:top; margin:6px 4px">
         </a>
         <a href="https://librewolf-community.gitlab.io">
-          <img src="svg/misc/librewolf.svg" alt="Librewolf" style="vertical-align:top; margin:6px 4px">
+          <img src="svg/dev/misc/librewolf.svg" alt="Librewolf" style="vertical-align:top; margin:6px 4px">
         </a>
         <a href="https://wiki.pine64.org/index.php/PinePhone">
-          <img src="svg/misc/ubports.svg" alt="Pinephone CE UBports user"
+          <img src="svg/dev/misc/ubports.svg" alt="Pinephone CE UBports user"
             style="vertical-align:top; margin:6px 4px">
         </a>
         <a href="https://www.microsoft.com/en-us/windows/windows-mixed-reality">
-          <img src="svg/misc/vr.svg" alt="Windows Mixed Reality VR Headset" style="vertical-align:top; margin:6px 4px">
+          <img src="svg/dev/misc/vr.svg" alt="Windows Mixed Reality VR Headset" style="vertical-align:top; margin:6px 4px">
         </a>
         <a href="https://vscodium.com">
-          <img src="svg/tools/vscodium.svg" alt="Vscodium" style="vertical-align:top; margin:6px 4px">
+          <img src="svg/dev/tools/vscodium.svg" alt="Vscodium" style="vertical-align:top; margin:6px 4px">
         </a>
       </p>
       <p align="center">
