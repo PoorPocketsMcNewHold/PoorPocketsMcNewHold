@@ -55,4 +55,5 @@
           <img src="https://raw.githubusercontent.com/PoorPocketsMcNewHold/PoorPocketsMcNewHold/master/svg/blogs/devto.svg" alt="Dev.to" style="vertical-align:top; margin:6px 4px">
         </a>
       </p>
+     <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=poorpocketsmcnewhold&show_icons=true&theme=default" alt="PoorPockets McNewHold GitHub stats" /></a>
   </sup>
