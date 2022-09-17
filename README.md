@@ -2,7 +2,7 @@
   <sup>
     <sup>FOSS enthusiast</sup>
     <h1 align="center"><img alt=""
-        src="https://mamot.fr/system/accounts/avatars/000/136/677/original/4c50d6325c41adda.gif" />
+        src="https://www.libravatar.org/avatar/a8578cd796272122eed3980045ac3e7a?d=robohash&s=195" />
       <br />
       <p align="center">
         <a href="#">
@@ -22,7 +22,7 @@
           <img src="https://raw.githubusercontent.com/PoorPocketsMcNewHold/PoorPocketsMcNewHold/master/svg/devices/archlinux.svg" alt="Arch Linux" style="vertical-align:top; margin:6px 4px">
         </a>
         <a href="https://librewolf-community.gitlab.io">
-          <img src="https://raw.githubusercontent.com/PoorPocketsMcNewHold/PoorPocketsMcNewHold/master/svg/dev/misc/librewolf.svg" alt="Librewolf" style="vertical-align:top; margin:6px 4px">
+          <img src="https://raw.githubusercontent.com/PoorPocketsMcNewHold/PoorPocketsMcNewHold/master/svg/dev/misc/firefox.svg" alt="Librewolf" style="vertical-align:top; margin:6px 4px">
         </a>
         <a href="https://wiki.pine64.org/index.php/PinePhone">
           <img src="https://raw.githubusercontent.com/PoorPocketsMcNewHold/PoorPocketsMcNewHold/master/svg/dev/misc/ubports.svg" alt="Pinephone CE UBports user"
@@ -44,9 +44,6 @@
         </a>
         <a href="https://steamcommunity.com/id/P-M_c_N_e_w_h_o_l_d/">
           <img src="https://raw.githubusercontent.com/PoorPocketsMcNewHold/PoorPocketsMcNewHold/master/svg/social/steam.svg" alt="Steam" style="vertical-align:top; margin:6px 4px">
-        </a>
-        <a href="https://t.me/PoorPocketsMcNewHold">
-          <img src="https://raw.githubusercontent.com/PoorPocketsMcNewHold/PoorPocketsMcNewHold/master/svg/social/telegram.svg" alt="@PoorPocketsMcNewHold" style="vertical-align:top; margin:6px 4px">
         </a>
         <a href="https://dev.lemmy.ml/u/PoorPocketsMcNewHold">
           <img src="https://raw.githubusercontent.com/PoorPocketsMcNewHold/PoorPocketsMcNewHold/master/svg/social/lemmy.svg" alt="Lemmy" style="vertical-align:top; margin:6px 4px">
