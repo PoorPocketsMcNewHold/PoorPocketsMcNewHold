@@ -49,5 +49,5 @@
           <img src="https://raw.githubusercontent.com/PoorPocketsMcNewHold/PoorPocketsMcNewHold/master/svg/social/lemmy.svg" alt="Lemmy" style="vertical-align:top; margin:6px 4px">
         </a>
       </p>
-     <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=poorpocketsmcnewhold&show_icons=true&theme=default" alt="PoorPockets McNewHold GitHub stats" /></a>
+     <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=poorpocketsmcnewhold&show_icons=true&theme=default&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be" alt="PoorPockets McNewHold GitHub stats" /></a>
   </sup>
